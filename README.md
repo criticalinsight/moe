@@ -1,3 +1,0 @@
-# moe
-
-figuring out publii
