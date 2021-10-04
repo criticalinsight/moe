@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://criticalinsight.github.io/moe/sitemap.xml
+Disallow: /
