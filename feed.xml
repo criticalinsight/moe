@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Overload</title>
-    <link href="https://criticalinsight.github.io/moe/feed.xml" rel="self" />
-    <link href="https://criticalinsight.github.io/moe" />
+    <link href="https://overload.moecapital.com/feed.xml" rel="self" />
+    <link href="https://overload.moecapital.com" />
     <updated>2021-10-04T03:37:57+03:00</updated>
     <author>
         <name>Moe</name>
     </author>
-    <id>https://criticalinsight.github.io/moe</id>
+    <id>https://overload.moecapital.com</id>
 
     <entry>
         <title>Moments</title>
         <author>
             <name>Moe</name>
         </author>
-        <link href="https://criticalinsight.github.io/moe/moments/"/>
-        <id>https://criticalinsight.github.io/moe/moments/</id>
+        <link href="https://overload.moecapital.com/moments/"/>
+        <id>https://overload.moecapital.com/moments/</id>
 
         <updated>2021-10-04T03:37:57+03:00</updated>
             <summary>
@@ -35,8 +35,8 @@
         <author>
             <name>Moe</name>
         </author>
-        <link href="https://criticalinsight.github.io/moe/waves/"/>
-        <id>https://criticalinsight.github.io/moe/waves/</id>
+        <link href="https://overload.moecapital.com/waves/"/>
+        <id>https://overload.moecapital.com/waves/</id>
 
         <updated>2021-10-04T03:37:38+03:00</updated>
             <summary>
@@ -57,8 +57,8 @@
         <author>
             <name>Moe</name>
         </author>
-        <link href="https://criticalinsight.github.io/moe/rain/"/>
-        <id>https://criticalinsight.github.io/moe/rain/</id>
+        <link href="https://overload.moecapital.com/rain/"/>
+        <id>https://overload.moecapital.com/rain/</id>
 
         <updated>2021-10-04T03:37:04+03:00</updated>
             <summary>
@@ -78,8 +78,8 @@
         <author>
             <name>Moe</name>
         </author>
-        <link href="https://criticalinsight.github.io/moe/religion/"/>
-        <id>https://criticalinsight.github.io/moe/religion/</id>
+        <link href="https://overload.moecapital.com/religion/"/>
+        <id>https://overload.moecapital.com/religion/</id>
 
         <updated>2021-10-04T03:36:18+03:00</updated>
             <summary>
@@ -101,8 +101,8 @@ This is my religion.”
         <author>
             <name>Moe</name>
         </author>
-        <link href="https://criticalinsight.github.io/moe/i/"/>
-        <id>https://criticalinsight.github.io/moe/i/</id>
+        <link href="https://overload.moecapital.com/i/"/>
+        <id>https://overload.moecapital.com/i/</id>
 
         <updated>2021-10-04T03:35:56+03:00</updated>
             <summary>
@@ -125,8 +125,8 @@ We searchers are ambitious only for life itself, for everything beautiful it can
         <author>
             <name>Moe</name>
         </author>
-        <link href="https://criticalinsight.github.io/moe/sun/"/>
-        <id>https://criticalinsight.github.io/moe/sun/</id>
+        <link href="https://overload.moecapital.com/sun/"/>
+        <id>https://overload.moecapital.com/sun/</id>
 
         <updated>2021-10-04T03:35:33+03:00</updated>
             <summary>
@@ -148,8 +148,8 @@ mother of stars, heed my call. let my sorrows echo throughout the ever growing r
         <author>
             <name>Moe</name>
         </author>
-        <link href="https://criticalinsight.github.io/moe/serendipity/"/>
-        <id>https://criticalinsight.github.io/moe/serendipity/</id>
+        <link href="https://overload.moecapital.com/serendipity/"/>
+        <id>https://overload.moecapital.com/serendipity/</id>
 
         <updated>2021-10-04T03:35:05+03:00</updated>
             <summary>
@@ -171,8 +171,8 @@ there’s a secret underneath those otherworldly folds. a rhythm to the beam of 
         <author>
             <name>Moe</name>
         </author>
-        <link href="https://criticalinsight.github.io/moe/places/"/>
-        <id>https://criticalinsight.github.io/moe/places/</id>
+        <link href="https://overload.moecapital.com/places/"/>
+        <id>https://overload.moecapital.com/places/</id>
 
         <updated>2021-10-04T03:33:56+03:00</updated>
             <summary>
@@ -194,8 +194,8 @@ Take me to our places, the stones and sticks in green hills. Take me to the roof
         <author>
             <name>Moe</name>
         </author>
-        <link href="https://criticalinsight.github.io/moe/quest/"/>
-        <id>https://criticalinsight.github.io/moe/quest/</id>
+        <link href="https://overload.moecapital.com/quest/"/>
+        <id>https://overload.moecapital.com/quest/</id>
 
         <updated>2021-10-04T03:33:08+03:00</updated>
             <summary>
@@ -231,8 +231,8 @@ Of what may happen if I stay
         <author>
             <name>Moe</name>
         </author>
-        <link href="https://criticalinsight.github.io/moe/dark/"/>
-        <id>https://criticalinsight.github.io/moe/dark/</id>
+        <link href="https://overload.moecapital.com/dark/"/>
+        <id>https://overload.moecapital.com/dark/</id>
 
         <updated>2021-10-04T03:32:40+03:00</updated>
             <summary>
